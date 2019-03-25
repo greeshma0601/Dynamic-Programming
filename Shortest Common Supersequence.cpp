@@ -1,4 +1,4 @@
-/*
+/*HINT:Find lcs of strings and then l1+l2-r gives scs
 Shortest Common Supersequence
 Given two strings str1 and str2, find the length of the smallest string which has both, str1 and str2 as its sub-sequences.
 Note: str1 and str2 can have both uppercase and lowercase letters.
